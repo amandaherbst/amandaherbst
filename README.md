@@ -6,7 +6,7 @@
 
 **👩‍💻 Website**: [amandaherbst.github.io](https://amandaherbst.github.io/)
 
-**📫 How to reach me**: aherbst@ucsb.edu
+**📫 How to reach me**: aherbst@bren.ucsb.edu
   
 ### Education
 Master of Environmental Data Science (Expected June 2024)
