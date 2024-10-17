@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Amanda Herbst 👋</h1>
 
-<h3 align="center">Master of Environmental Data Science Student</h3> 
+<h3 align="center">Environmental Data Scientist</h3> 
 
 **😄 Pronouns**: she/her
 
@@ -9,7 +9,7 @@
 **📫 How to reach me**: aherbst@bren.ucsb.edu
   
 ### Education
-Master of Environmental Data Science (Expected June 2024)
+Master of Environmental Data Science (June 2024)
 Bren School of Environmental Science & Management -- University of California, Santa Barbara (UCSB)
 
 B.S. Chemistry, minor in Dance (June 2022)
